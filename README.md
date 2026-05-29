@@ -8,6 +8,8 @@ Private backup of labeled datasets from **RBG Annotation Studio** (AnnoForge).
 |--------|-------------|----------------|
 | `LANE/` | LANE segmentation project | 329 |
 | `white_separator/` | White separator project | 50 |
+| `MEDIAN/` | MEDIAN segmentation project | 28 |
+| `MEDIAN-1/` | MEDIAN-1 segmentation project | 94 |
 
 Each project folder contains:
 
@@ -20,10 +22,14 @@ Each project folder contains:
 
 ## Database snapshot
 
-`metadata/annoforge.db` — full SQLite database (all projects, annotations, statuses) at time of backup.
+`metadata/annoforge.db` — SQLite database (projects, annotations, statuses) at time of backup.
 
 ## Restore locally
 
-Copy `metadata/annoforge.db` to `annoforge/backend/annoforge.db` and image files from `storage/project_*` are referenced by paths inside the DB; for training, use the exported `images/` + `labels/` folders directly.
+```bash
+cp metadata/annoforge.db /path/to/annoforge/backend/annoforge.db
+```
 
-Backup created: 2026-05-26
+For training, use each project's `images/` + `labels/` folders directly.
+
+Last updated: 2026-05-29
