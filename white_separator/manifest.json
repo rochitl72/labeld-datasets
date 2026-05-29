@@ -1,0 +1,352 @@
+[
+  {
+    "image_id": 51,
+    "filename": "DJI_0050.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 52,
+    "filename": "DJI_0049.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 53,
+    "filename": "DJI_0048.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 54,
+    "filename": "DJI_0047.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 55,
+    "filename": "DJI_0046.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 56,
+    "filename": "DJI_0045.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 57,
+    "filename": "DJI_0044.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 58,
+    "filename": "DJI_0043.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 59,
+    "filename": "DJI_0042.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 29
+  },
+  {
+    "image_id": 60,
+    "filename": "DJI_0041.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 61,
+    "filename": "DJI_0040.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 62,
+    "filename": "DJI_0039.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 63,
+    "filename": "DJI_0038.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 64,
+    "filename": "DJI_0037.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 65,
+    "filename": "DJI_0036.JPG",
+    "split": "test",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 66,
+    "filename": "DJI_0035.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 67,
+    "filename": "DJI_0034.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 68,
+    "filename": "DJI_0033.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 69,
+    "filename": "DJI_0032.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 70,
+    "filename": "DJI_0031.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 71,
+    "filename": "DJI_0030.JPG",
+    "split": "test",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 72,
+    "filename": "DJI_0029.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 23
+  },
+  {
+    "image_id": 73,
+    "filename": "DJI_0028.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 74,
+    "filename": "DJI_0027.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 22
+  },
+  {
+    "image_id": 75,
+    "filename": "DJI_0026.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 76,
+    "filename": "DJI_0025.JPG",
+    "split": "test",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 77,
+    "filename": "DJI_0024.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 78,
+    "filename": "DJI_0023.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 23
+  },
+  {
+    "image_id": 79,
+    "filename": "DJI_0022.JPG",
+    "split": "test",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 80,
+    "filename": "DJI_0021.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 81,
+    "filename": "DJI_0020.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 22
+  },
+  {
+    "image_id": 82,
+    "filename": "DJI_0019.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 83,
+    "filename": "DJI_0018.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 84,
+    "filename": "DJI_0017.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 85,
+    "filename": "DJI_0016.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 86,
+    "filename": "DJI_0015.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 87,
+    "filename": "DJI_0014.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 88,
+    "filename": "DJI_0013.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 89,
+    "filename": "DJI_0012.JPG",
+    "split": "test",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 90,
+    "filename": "DJI_0011.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 91,
+    "filename": "DJI_0010.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 29
+  },
+  {
+    "image_id": 92,
+    "filename": "DJI_0009.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 93,
+    "filename": "DJI_0008.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 28
+  },
+  {
+    "image_id": 94,
+    "filename": "DJI_0007.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 95,
+    "filename": "DJI_0006.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 27
+  },
+  {
+    "image_id": 96,
+    "filename": "DJI_0005.JPG",
+    "split": "val",
+    "status": "approved",
+    "annotation_count": 24
+  },
+  {
+    "image_id": 97,
+    "filename": "DJI_0004.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 26
+  },
+  {
+    "image_id": 98,
+    "filename": "DJI_0003.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 99,
+    "filename": "DJI_0002.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 25
+  },
+  {
+    "image_id": 100,
+    "filename": "DJI_0001.JPG",
+    "split": "train",
+    "status": "approved",
+    "annotation_count": 24
+  }
+]

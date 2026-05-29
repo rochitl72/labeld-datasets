@@ -1,0 +1,3 @@
+white lane separator
+Single Lane
+median
