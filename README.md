@@ -11,6 +11,7 @@ Private backup of labeled datasets from **RBG Annotation Studio** (AnnoForge).
 | `MEDIAN/` | MEDIAN segmentation project | 28 |
 | `MEDIAN-1/` | MEDIAN-1 segmentation project | 94 |
 | `1-June/` | 1-June segmentation project | 139 |
+| `2-june/` | 2-june segmentation project | 47 |
 
 Each project folder contains:
 
