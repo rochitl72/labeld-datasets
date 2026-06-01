@@ -20,16 +20,5 @@ Each project folder contains:
 - `data.yaml` — YOLO dataset config
 - `manifest.json` — per-image metadata
 
-## Database snapshot
-
-`metadata/annoforge.db` — SQLite database (projects, annotations, statuses) at time of backup.
-
-## Restore locally
-
-```bash
-cp metadata/annoforge.db /path/to/annoforge/backend/annoforge.db
-```
-
-For training, use each project's `images/` + `labels/` folders directly.
 
 Last updated: 2026-05-29
