@@ -1,36 +1,23 @@
-# labeld-datasets
+# Unified Labeled Dataset (Physical Median)
 
-Private backup of labeled datasets from **RBG Annotation Studio** (AnnoForge).
+This repository contains a **single unified dataset** for **physical median** detection/segmentation.
 
-## Projects
+## Contents (repo root)
 
-| Folder | Description | Labeled images |
-|--------|-------------|----------------|
-| `LANE/` | LANE segmentation project | 329 |
-| `MEDIAN/` | MEDIAN segmentation project | 28 |
-| `MEDIAN-1/` | MEDIAN-1 segmentation project | 94 |
-| `1-June/` | 1-June segmentation project | 139 |
-| `2-june/` | 2-june segmentation project | 47 |
+- `images/` — images
+- `labels/` — labels/annotations (as exported)
+- `annotations_coco.json` — COCO-format annotations
+- `manifest.json` — dataset manifest; includes a `theme` field to preserve the original source project/theme
+- `classes.txt` — class list (single class: physical median)
+- `data.yaml` — dataset config
 
-Each project folder contains:
+## Dataset split counts
 
-- `images/{train,val,test}/` — source images
-- `labels/{train,val,test}/` — YOLO segmentation `.txt` files
-- `annotations_coco.json` — COCO format annotations
-- `classes.txt` — class names
-- `data.yaml` — YOLO dataset config
-- `manifest.json` — per-image metadata
+- **Total**: 501 images
+- **Train**: 456 images
+- **Val**: 30 images
+- **Test**: 15 images
 
-## Database snapshot
+## Notes
 
-`metadata/annoforge.db` — SQLite database (projects, annotations, statuses) at time of backup.
-
-## Restore locally
-
-```bash
-cp metadata/annoforge.db /path/to/annoforge/backend/annoforge.db
-```
-
-For training, use each project's `images/` + `labels/` folders directly.
-
-Last updated: 2026-06-01
+- Filenames are normalized to **numeric** identifiers for consistency.
