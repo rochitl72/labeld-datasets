@@ -21,3 +21,27 @@ This repository contains a **single unified dataset** for **physical median** de
 ## Notes
 
 - Filenames are normalized to **numeric** identifiers for consistency.
+
+## Dataset
+
+Single unified dataset for one class: `physical median`.
+
+- Total images: 501
+- Split: train 350 (70%), val 100 (20%), test 51 (10%)
+- Shuffle seed: 42
+
+Notes:
+- Filenames are numbered independently within each split (`1.jpg`, `2.jpg`, ...).
+- `manifest.json` includes a `theme` field preserving the original source project.
+
+## Dataset
+
+Single unified dataset for one class: `physical median`.
+
+- Total images: 501
+- Split: train 350 (70%), val 100 (20%), test 51 (10%)
+- Shuffle seed: 42
+
+Notes:
+- Filenames are zero-padded and numbered independently within each split (`0001.jpg`, `0002.jpg`, ...).
+- `manifest.json` includes a `theme` field preserving the original source project.
