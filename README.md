@@ -7,7 +7,6 @@ Private backup of labeled datasets from **RBG Annotation Studio** (AnnoForge).
 | Folder | Description | Labeled images |
 |--------|-------------|----------------|
 | `LANE/` | LANE segmentation project | 329 |
-| `white_separator/` | White separator project | 50 |
 | `MEDIAN/` | MEDIAN segmentation project | 28 |
 | `MEDIAN-1/` | MEDIAN-1 segmentation project | 94 |
 | `1-June/` | 1-June segmentation project | 139 |

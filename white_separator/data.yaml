@@ -1,7 +1,0 @@
-path: /Users/rochitlen/Downloads/labeld-datasets/white_separator
-train: images/train
-val: images/val
-test: images/test
-
-nc: 3
-names: ['white lane separator', 'Single Lane', 'median']
